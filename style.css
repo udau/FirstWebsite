@@ -1,0 +1,32 @@
+/* body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+} */
+.navbar {
+    background-color: rgb(0, 0, 0);
+    white-space: nowrap;
+    height: 60px;
+    position: sticky;
+    top: 0;
+    display:flex;
+    align-items: center;
+}
+.navbut {
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+    margin-left: 200px;
+}
+.navbut:hover {
+    color:orange;
+    text-decoration:underline;
+}
+#amazon {
+    color:orange;
+    text-decoration:none;
+}
+form {
+    display: inline;
+}
+button {
+    background-color: orange;
+}
